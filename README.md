@@ -1,4 +1,4 @@
-## `Hey There!` <img src="https://media0.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47irwnqr32a4y8j0lagx8zj58vhn9p11bijbo1i1zz&rid=giphy.gif" alt="twitter" width="44" height="44"/>
+## `Hey There!` <img src="assets/ezgif.com-crop (3).gif" alt="twitter" width="44" height="44"/>
 
 <!--
 **treramey/treramey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

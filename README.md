@@ -1,17 +1,28 @@
-## `Hey There!` 
-<!-- <img src="https://media2.giphy.com/media/gOQ6EgtAiwXde/giphy.gif?cid=ecf05e47b7qnbgtpftmgk5tbqxkgelb0oid73n74ilax8fp9&rid=giphy.gif" alt="twitter" width="62" height="64"/> -->
+<h1 align="center">Hey there! 😎, I'm Trevor Ramey</h1>
+<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coding gif" width="250">
 
-<!--
-**treramey/treramey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🗺️ Based in **Texas , USA**.
+- 💻 I specialise in **design systems**, **performant frontend applications**, **complex web editors** and **managing monorepos**.
+- 🔮 Core maintainer of [tRPC](https://github.com/trpc/trpc), currently working on a new documentation website.
+- 🚀 Currently working on [Noodle](https://github.com/ixahmedxi/noodle), an open source student productivity platform that combines note taking, tasks, assignments, grade calculations, calendar and more!.
 
-Here are some ideas to get you started:
+My current favourite technologies are [NX](https://nx.dev), [React](https://reactjs.org), [Next](https://nextjs.org), [Remix](https://remix.run), [Svelte](https://svelte.dev), [Storybook](https://storybook.js.org), [Slate](https://slatejs.org), [Stitches](https://stitches.dev), [Vanilla Extract](https://vanilla-extract.style), [Radix](https://radix-ui.com), [Graphql](https://graphql.org) and [tRPC](https://trpc.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=treramey&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="treramey" /></p>
+</div>
+
+<div align="center">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=treramey&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+</p>
+</div>
+
+<h3 align="center">Connect with me!</h3>
+<p align="center">
+<a href="https://codepen.io/ixahmedxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ixahmedxi" height="30" width="40" /></a>
+<a href="https://twitter.com/ixahmedxii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixahmedxii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ixahmedxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixahmedxi" height="30" width="40" /></a>
+<a href="https://instagram.com/ix.ahmed.xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ixahmedxi" height="30" width="40" /></a>
+<a href="https://medium.com/@ixahmedxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ixahmedxi" height="30" width="40" /></a>
+</p>
